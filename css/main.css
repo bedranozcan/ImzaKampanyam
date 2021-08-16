@@ -1,0 +1,88 @@
+html,
+body,
+#cover {
+    height: 100%;
+    
+}
+#cover{
+    background:url('../images/agac.jpg') no-repeat center center fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+.fixed top{
+    max-width: 1140px;
+    margin:80px  auto;
+}
+h1{
+    color:#ffffff;
+    margin-top:4%;
+    font-family: 'Droid Serif',serif;
+    font-size:40px ;
+    font-style: italic;
+    margin-bottom:0;
+}
+h2{
+    font-family: 'Monserrat',sans-serif;
+    color:#ffffff;
+    font-size: 50px;
+    font-weight: 500;
+    margin-top:4%;
+    margin-bottom:30px;
+
+}
+a.nav-link{
+    font-family:'Montserrat' sans-serif;
+    font-size: 40px;
+    color:white !important;
+    transition: color 0.5 ease;
+    -webkit-transition: color 0.5 ease;
+    -moz-transition: color 0.5 ease;
+   -o-transition: color 0.5 ease;
+
+}
+a.nav-link:hover{
+color:#fed136 !important;
+}
+#imzakampanyasi{
+    padding: 120px 0;
+    margin-bottom: 70px;
+}
+.imzakampanyasi-top h3{
+    font-family:'Montserrat' sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 70px;
+}
+.item-circle{
+   border:3px solid #05960E;
+    width: 70px;
+    height: 70px;
+    margin: 0 auto;
+    border-radius: 200px;
+}
+.imzakampanyasi-content i{
+color: #05960E;
+
+}
+.imzakampanyasi-content h4{
+    font-family:'Montserrat' sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    color:#222;
+    margin-top: 24px;
+}
+.imzakampanyasi-content p{
+    font-family: 'Roboto Slab', serif;
+    font-size: 20px;
+}
+#ekran{
+    height: 100%;
+}#ekran{
+    background:url('../images/agac3.jpg') no-repeat center center fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
